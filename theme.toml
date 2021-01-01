@@ -1,0 +1,12 @@
+  
+name = "Tatsu"
+license = "MIT"
+licenselink = "https://github.com/sambacha/tatsu/raw/branch/master/LICENSE.md"
+description = "jlelse's personal Hugo theme"
+homepage = "https://github.com/sambacha/tatsu"
+tags = []
+features = []
+
+[author]
+  name = "Tatsu"
+  homepage = "https://sambacha.github.io"
