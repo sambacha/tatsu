@@ -18,7 +18,7 @@
 {{ else }}
 <link rel="canonical" href="{{ .Permalink }}">
 {{ end }}
-{{ partialCached "indiewebhead" . (.Param "indieweb.enabled") }}
+
 {{ partialCached "customhead" . }}
 {{ partialCached "header" . }}
 {{ block "main" . }}

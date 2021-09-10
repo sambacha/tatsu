@@ -1,0 +1,6 @@
+_vendor
+node_modules
+vendor/
+dist/
+.DS_Store
+public/twemoji
