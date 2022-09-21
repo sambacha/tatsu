@@ -1,5 +1,5 @@
   
-name = "Tatsu"
+name = "tatsu"
 license = "MIT"
 licenselink = "https://github.com/sambacha/tatsu/raw/branch/master/LICENSE.md"
 description = "jlelse's personal Hugo theme"
@@ -8,5 +8,5 @@ tags = []
 features = []
 
 [author]
-  name = "Tatsu"
+  name = "tatsu"
   homepage = "https://sambacha.github.io"
